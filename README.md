@@ -35,11 +35,11 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 ## Do you want to contribute or share your comments?
 
 We highly appreciate new contributions, suggestions for improvement, or any other comments.  
-Please email Valdemar at *valdemar@mail.muni.cz*.
+Please email [Valdemar Švábenský](https://www.muni.cz/en/people/395868-valdemar-svabensky) at *valdemar@mail.muni.cz*.
 
 ## Authors
 
-This list was compiled and is maintained by Valdemar Švábenský and Jan Vykopal, the members of the [CSIRT-MU team](https://csirt.muni.cz/) at the [Masaryk University](https://muni.cz).
+This list was compiled and is maintained by the members of the [CSIRT-MU team](https://csirt.muni.cz/) at the [Masaryk University](https://muni.cz).
 
 ## Licence
 
