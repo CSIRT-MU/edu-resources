@@ -5,14 +5,28 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 
 ## Capture the Flag (CTF) games
 
-* [CTFtime](https://ctftime.org/) -- a public directory of all CTFs organized currently or in the past
+* [CTFtime](https://ctftime.org/) – a public directory of all CTFs organized currently or in the past
+* [CTF Field Guide](https://trailofbits.github.io/ctf/) – an online book about preparing for CTFs
 
-## Online playgrounds
+## Online training grounds
+
+* [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) – a PHP/MySQL web application containing various vulnerabilities
+* [Root Me](https://www.root-me.org) – challenges to practice hacking skills
+* [Hack me](https://hack.me/) – a community platform for building, hosting and sharing vulnerable web app code
+* [Hack This Site](https://www.hackthissite.org/) – training ground for hackers including a community forum
+* [Hack This!!](https://www.hackthis.co.uk/) – challenges to practice cryptography, forensics, JavaScript, SQL, and more
+* [Hacker Test](http://www.hackertest.net/) – challenges to practice JavaScript, PHP, HTML and graphic thinking
 
 ## Online courses
 
-* [Cybrary](https://www.cybrary.it/) -- free online security courses
-* [SANS](https://www.sans.org/) -- professional information security training
+* [SANS](https://www.sans.org/) – professional information security training
+* [Cybrary](https://www.cybrary.it/) – free online security courses
+* [Open Security Training](http://www.opensecuritytraining.info/) – free materials for computer security classes
+
+## Other interesting lists
+
+* [Practice CTF List](http://captf.com/practice-ctf/) – CTF practice sites and tools
+* [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/PracticeUrls.html) – a roadmap for vulnerable apps and systems
 
 ## Do you want to contribute or share your comments?
 
