@@ -28,6 +28,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 
 ## Other interesting lists
 
+* [Awesome Security List](https://github.com/sindresorhus/awesome#security) – a major list on everything security-related
 * [Practice CTF List](http://captf.com/practice-ctf/) – CTF practice sites and tools
 * [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/PracticeUrls.html) – a roadmap for vulnerable apps and systems
 
