@@ -35,7 +35,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 ## Do you want to contribute or share your comments?
 
 We highly appreciate new contributions, suggestions for improvement, or any other comments.  
-Please email Valdemar at *svabensky@ics.muni.cz*.
+Please email Valdemar at *valdemar@mail.muni.cz*.
 
 ## Authors
 
