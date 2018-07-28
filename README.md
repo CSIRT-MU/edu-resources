@@ -17,6 +17,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [Hack This!!](https://www.hackthis.co.uk/) – challenges to practice cryptography, forensics, JavaScript, SQL, and more
 * [Hacker Test](http://www.hackertest.net/) – challenges to practice JavaScript, PHP, HTML and graphic thinking
 * [Secure Code Warrior](https://portal.securecodewarrior.com/#/intro-splash) – security learning resources and challenges
+* [Avatao](https://avatao.com/) – challenges to practice cybersecurity skills
 
 ## Online courses and materials
 
@@ -24,6 +25,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [Cybrary](https://www.cybrary.it/) – free online security courses
 * [Open Security Training](http://www.opensecuritytraining.info/) – free, open-source materials for computer security classes
 * [Hacker101](https://www.hacker101.com/) – free, open-source video lessons on web security
+* [Hacksplaining](https://www.hacksplaining.com/lessons) – vulnerabilities explained simply
 * [eLearnSecurity](https://www.elearnsecurity.com/) – paid online security courses
 
 ## Other interesting lists
@@ -43,4 +45,4 @@ This list was compiled and is maintained by the members of the [CSIRT-MU team](h
 
 ## Licence
 
-This work is licensed under a [CC0 (Public Domain) License](https://creativecommons.org/publicdomain/zero/1.0/).
+This work is licensed under a [CC0 (Public Domain) License](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to use it in any way.
