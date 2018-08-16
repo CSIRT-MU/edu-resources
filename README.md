@@ -13,6 +13,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 
 * [Avatao](https://avatao.com/) – challenges to practice cybersecurity skills
 * [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) – a PHP/MySQL web application containing various vulnerabilities
+* [Exploit Exercises](https://exploit-exercises.com/) – virtual machines and challenges to practice security exploits
 * [Hack Me](https://hack.me/) – a community platform for building, hosting and sharing vulnerable web app code
 * [Hack The Box](https://www.hackthebox.eu/) – a community platform with hacking challenges
 * [Hack This Site](https://www.hackthissite.org/) – training ground for hackers including a community forum
