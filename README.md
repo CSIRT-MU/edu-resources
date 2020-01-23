@@ -27,6 +27,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 
 * [Cybrary](https://www.cybrary.it/) – free online security courses
 * [eLearnSecurity](https://www.elearnsecurity.com/) – paid online security courses
+* [ENISA Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) – educational resources
 * [Exploit Database](https://www.exploit-db.com/) – archive of exploits
 * [Hacker101](https://www.hacker101.com/) – free, open-source video lessons on web security
 * [Hacksplaining](https://www.hacksplaining.com/lessons) – vulnerabilities explained simply
