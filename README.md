@@ -12,6 +12,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 ## Online training grounds and practice challenges
 
 * [Avatao](https://avatao.com/) – challenges to practice cybersecurity skills
+* [Crackmes.One](https://crackmes.one/) – challenges to practice reverse engineering
 * [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) – a PHP/MySQL web application containing various vulnerabilities
 * [Exploit Exercises](https://exploit-exercises.com/) – virtual machines and challenges to practice security exploits
 * [Hack Me](https://hack.me/) – a community platform for building, hosting and sharing vulnerable web app code
