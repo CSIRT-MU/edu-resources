@@ -51,7 +51,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 ## Do you want to contribute or share your comments?
 
 We highly appreciate new contributions, suggestions for improvement, or any other comments.  
-Please email [Valdemar Švábenský](https://www.muni.cz/en/people/395868-valdemar-svabensky) at *valdemar@mail.muni.cz*.
+Please email [Valdemar Švábenský](https://github.com/valdemarsv) at *valdemar@mail.muni.cz*.
 
 ## Authors
 
