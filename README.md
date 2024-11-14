@@ -23,6 +23,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [Root Me](https://www.root-me.org) – challenges to practice hacking skills
 * [Secure Code Warrior](https://portal.securecodewarrior.com/#/intro-splash) – security learning resources and challenges
 * [Wargames](http://overthewire.org/wargames/) – games for practicing hacking skills
+* [CyberPython](https://pythoncyber.go.ro) - Quests which makes you to do your own scripts by searching on web using given keywords or ideas
 
 ## Online courses and materials
 
