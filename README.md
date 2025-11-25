@@ -43,8 +43,6 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [Awesome Security List](https://github.com/sindresorhus/awesome#security) – a major list on everything security-related
 * [Cybersources](https://cybersources.site/) – tools, resources, and educational materials
 * [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/PracticeUrls.html) – a roadmap for vulnerable apps and systems
-* [Practice CTF List](http://captf.com/practice-ctf/) – CTF practice sites and tools
-* [TeachCyber](https://teachcyber.tk/) – a list of free online resources
 * [WeChall](https://www.wechall.net/active_sites) – a list of web challenges and practice sites
 
 ## Do you want to contribute or share your comments?
