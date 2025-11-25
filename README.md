@@ -16,7 +16,6 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [Exploit Exercises](https://exploit-exercises.com/) – virtual machines and challenges to practice security exploits
 * [Hack The Box](https://www.hackthebox.eu/) – a community platform with hacking challenges
 * [Hack This Site](https://www.hackthissite.org/) – training ground for hackers including a community forum
-* [Hack This!!](https://www.hackthis.co.uk/) – challenges to practice cryptography, forensics, JavaScript, SQL, and more
 * [Hacker Test](http://www.hackertest.net/) – challenges to practice JavaScript, PHP, HTML and graphic thinking
 * [LabEx Cybersecurity Labs](https://labex.io/learn/cybersecurity) – interactive hands-on cybersecurity labs covering penetration testing, ethical hacking, network security, web vulnerabilities, and digital forensics with real-world scenarios
 * [Root Me](https://www.root-me.org) – challenges to practice hacking skills
