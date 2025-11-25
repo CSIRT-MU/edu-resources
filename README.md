@@ -28,7 +28,6 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [Cybersecurity Guide](https://cybersecurityguide.org/) – collection of guides
 * [Cyber Security Degrees](https://cybersecuritydegrees.org/) – lists of scholarships, degree programs, and certifications in the USA
 * [eLearnSecurity](https://www.elearnsecurity.com/) – paid online security courses
-* [ENISA Training Resources](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material) – educational resources
 * [Exploit Database](https://www.exploit-db.com/) – archive of exploits
 * [Hacker101](https://www.hacker101.com/) – free, open-source video lessons on web security
 * [Hacksplaining](https://www.hacksplaining.com/lessons) – vulnerabilities explained simply
