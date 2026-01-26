@@ -13,6 +13,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 
 * [Avatao](https://avatao.com/) – challenges to practice cybersecurity skills
 * [Crackmes.One](https://crackmes.one/) – challenges to practice reverse engineering
+* [Code Review Lab](https://www.codereviewlab.com/) - challenges to practice security code review
 * [Exploit Exercises](https://exploit-exercises.com/) – virtual machines and challenges to practice security exploits
 * [Hack The Box](https://www.hackthebox.eu/) – a community platform with hacking challenges
 * [Hack This Site](https://www.hackthissite.org/) – training ground for hackers including a community forum
