@@ -74,7 +74,7 @@ If you wish to update the list, open a pull request and assign it to [Valdemar Å
 
 ## Authors
 
-This list was compiled and is maintained by the members of the [CSIRT-MU team](https://csirt.muni.cz/) at the [Masaryk University](https://muni.cz).
+This list is maintained by the [CSIRT-MU team](https://csirt.muni.cz/) and the [CYBERSEC laboratory](https://cybersec.fi.muni.cz/) at the [Masaryk University](https://muni.cz).
 
 ## Licence
 
