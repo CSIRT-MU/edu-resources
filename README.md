@@ -46,7 +46,6 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [LOLESXi](https://lolesxi.github.io/) – a dedicated collection of native VMware ESXi binaries abused for post-exploitation
 * [WADComs](https://wadcoms.github.io/) – an interactive command repository for exploiting Active Directory environments
 
-
 ## Cyber playbooks and payload repositories
 
 * [HackTricks](https://book.hacktricks.xyz/) – a comprehensive online book mapping out modern penetration testing methodologies
@@ -59,6 +58,12 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [ATT&CK Matrix](https://attack.mitre.org/) – a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
 * [CyberChef](https://gchq.github.io/CyberChef/) – a web app known as the "Cyber Army Knife" used for decoding, hashing, and analyzing data
 * [Exploit-DB](https://www.exploit-db.com/) – a public archive of historical and modern software exploits for security researchers
+
+## Offline, paper-based materials (e.g., cards)
+
+* [The Security Cards](https://securitycards.cs.washington.edu/) – security threat modeling cards.
+* [LINDDUN Go](https://downloads.linddun.org/linddun-go/default/v241203/go.pdf) – privacy threat modeling cards.
+* [Moral-IT and Legal-IT](https://lachlansresearch.com/the-moral-it-legal-it-decks/) – privacy, ethics, law and security cards.
 
 ## Other interesting lists
 
