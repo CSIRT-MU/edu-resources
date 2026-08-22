@@ -31,6 +31,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [eLearnSecurity](https://www.elearnsecurity.com/) – paid online security courses
 * [Hacker101](https://www.hacker101.com/) – free, open-source video lessons on web security
 * [Hacksplaining](https://www.hacksplaining.com/lessons) – vulnerabilities explained simply
+* [MindDividend Shield](https://alphaengineerai.com/global-online-scam-checker.html) – free global online scam checker with multilingual awareness guides, recovery checklists, and official reporting routes
 * [Open Security Training](http://www.opensecuritytraining.info/) – free, open-source materials for computer security classes
 * [PortSwigger](https://portswigger.net/web-security) – free, online web security training with basic and advanced topics and hands-on labs
 * [pwn.guide](https://pwn.guide) – 50% free, learn from 150+ web, hardware, wireless... hacking, cryptography, defense & certification training (some of the content is behind a monthly/yearly/**lifetime** subscription)
