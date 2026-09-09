@@ -25,6 +25,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 
 ## Online courses and materials
 
+* [CipherExam](https://cipherexam.com/lp/security-plus) – Security+ (SY0-701) practice questions with native PBQs, tagged by cognitive level (Bloom taxonomy) so learners can see whether they are missing recall or analysis; free tier plus paid plans
 * [Cybrary](https://www.cybrary.it/) – free online security courses
 * [Cybersecurity Guide](https://cybersecurityguide.org/) – collection of guides
 * [Cyber Security Degrees](https://cybersecuritydegrees.org/) – lists of scholarships, degree programs, and certifications in the USA
