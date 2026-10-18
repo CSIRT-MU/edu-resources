@@ -18,15 +18,15 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [Hack The Box](https://www.hackthebox.eu/) – a community platform with hacking challenges
 * [Hack This Site](https://www.hackthissite.org/) – training ground for hackers including a community forum
 * [Hacker Test](http://www.hackertest.net/) – challenges to practice JavaScript, PHP, HTML and graphic thinking
-* [LabEx Cybersecurity Labs](https://labex.io/learn/cybersecurity) – interactive hands-on cybersecurity labs covering penetration testing, ethical hacking, network security, web vulnerabilities, and digital forensics with real-world scenarios
+* [LabEx Cybersecurity Labs](https://labex.io/learn/cybersecurity) – penetration testing, ethical hacking, network security, web vulnerabilities, and digital forensics with real-world scenarios
 * [Root Me](https://www.root-me.org) – challenges to practice hacking skills
 * [Secure Code Warrior](https://portal.securecodewarrior.com/#/intro-splash) – security learning resources and challenges
 * [Wargames](http://overthewire.org/wargames/) – games for practicing hacking skills
 
 ## Online courses and materials
 
-* [CipherExam](https://cipherexam.com/lp/security-plus) – Security+ (SY0-701) practice questions with native PBQs, tagged by cognitive level (Bloom taxonomy) so learners can see whether they are missing recall or analysis; free tier plus paid plans
-* [Crypto Scam Detection Quiz](https://cryptostrapon.github.io/crypto-scam-quiz/) – free, open-source quiz that trains people to recognize crypto scams (MIT code, CC BY 4.0 content)
+* [CipherExam](https://cipherexam.com/lp/security-plus) – Security+ (SY0-701) practice questions with native PBQs, tagged by cognitive level (Bloom taxonomy); free and paid plans
+* [Crypto Scam Detection Quiz](https://cryptostrapon.github.io/crypto-scam-quiz/) – free, open-source quiz to recognize crypto scams (MIT code, CC BY 4.0 content)
 * [Cybrary](https://www.cybrary.it/) – free online security courses
 * [Cybersecurity Guide](https://cybersecurityguide.org/) – collection of guides
 * [Cyber Security Degrees](https://cybersecuritydegrees.org/) – lists of scholarships, degree programs, and certifications in the USA
@@ -35,7 +35,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [Hacksplaining](https://www.hacksplaining.com/lessons) – vulnerabilities explained simply
 * [Open Security Training](http://www.opensecuritytraining.info/) – free, open-source materials for computer security classes
 * [PortSwigger](https://portswigger.net/web-security) – free, online web security training with basic and advanced topics and hands-on labs
-* [pwn.guide](https://pwn.guide) – 50% free, learn from 150+ web, hardware, wireless... hacking, cryptography, defense & certification training (some content is paywalled)
+* [pwn.guide](https://pwn.guide) – 150+ web, hardware, wireless... hacking, cryptography, defense & certification training (some content is paywalled)
 * [SANS](https://www.sans.org/) – professional paid information security training
 * [SANS Cyber Aces](https://tutorials.cyberaces.org/) – video tutorials with handouts and quizzes
 * [RansomLeak](https://ransomleak.com/catalogue/application-security/) – browser-based hands-on labs for Application Security, API Security, Cloud Security, Git Security, and AI Security
