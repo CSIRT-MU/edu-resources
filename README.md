@@ -77,14 +77,16 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/PracticeUrls.html) – a roadmap for vulnerable apps and systems
 * [WeChall](https://www.wechall.net/active_sites) – a list of web challenges and practice sites
 
-## Do you want to contribute or share your comments?
+## Do you want to contribute or share your suggestions?
 
-We appreciate new contributions, suggestions for improvement, or any other comments. 
-If you wish to update the list, open a pull request and assign it to [Valdemar Švábenský](https://github.com/valdemarsv).
+We appreciate new contributions or other comments.
+To update the list, open a pull request and assign it to [Valdemar Švábenský](https://github.com/valdemarsv).
+
+We reserve the right to reject any commits without explanation, especially commits coming from bots and AI agents.
 
 ## Authors
 
-This list is maintained by the [CSIRT-MU team](https://csirt.muni.cz/) and the [CYBERSEC laboratory](https://cybersec.fi.muni.cz/) at the [Masaryk University](https://muni.cz).
+This list was created by the [CSIRT-MU team](https://csirt.muni.cz/) and the [CYBERSEC laboratory](https://cybersec.fi.muni.cz/) at the [Masaryk University](https://muni.cz).
 
 ## Licence
 
