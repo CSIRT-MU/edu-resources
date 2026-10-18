@@ -62,6 +62,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [ATT&CK Matrix](https://attack.mitre.org/) – a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
 * [CyberChef](https://gchq.github.io/CyberChef/) – a web app known as the "Cyber Army Knife" used for decoding, hashing, and analyzing data
 * [Exploit-DB](https://www.exploit-db.com/) – a public archive of historical and modern software exploits for security researchers
+* [ICHI — Internet Cyber Health Index](https://ichi.global) – a free, source-transparent daily barometer of internet cyber-health, aggregating news and telemetry feeds with direct evidence links
 * [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) – an open database of AI agent security events (incidents, vulnerabilities, research), each linked to its public sources
 
 ## Offline, paper-based materials (e.g., cards)
