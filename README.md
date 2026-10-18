@@ -61,6 +61,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [ATT&CK Matrix](https://attack.mitre.org/) – a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
 * [CyberChef](https://gchq.github.io/CyberChef/) – a web app known as the "Cyber Army Knife" used for decoding, hashing, and analyzing data
 * [Exploit-DB](https://www.exploit-db.com/) – a public archive of historical and modern software exploits for security researchers
+* [ICHI — Internet Cyber Health Index](https://ichi.global) – a free, source-transparent daily barometer of internet cyber health that aggregates vulnerability pressure, exploitation activity, malware infrastructure, ransomware, and threat actor signals into a single executive-readable readout
 
 ## Offline, paper-based materials (e.g., cards)
 
