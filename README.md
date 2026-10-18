@@ -26,6 +26,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 ## Online courses and materials
 
 * [CipherExam](https://cipherexam.com/lp/security-plus) – Security+ (SY0-701) practice questions with native PBQs, tagged by cognitive level (Bloom taxonomy) so learners can see whether they are missing recall or analysis; free tier plus paid plans
+* [Crypto Scam Detection Quiz](https://cryptostrapon.github.io/crypto-scam-quiz/) – free, open-source quiz that trains people to recognize crypto scams (MIT code, CC BY 4.0 content)
 * [Cybrary](https://www.cybrary.it/) – free online security courses
 * [Cybersecurity Guide](https://cybersecurityguide.org/) – collection of guides
 * [Cyber Security Degrees](https://cybersecuritydegrees.org/) – lists of scholarships, degree programs, and certifications in the USA
@@ -62,6 +63,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [CyberChef](https://gchq.github.io/CyberChef/) – a web app known as the "Cyber Army Knife" used for decoding, hashing, and analyzing data
 * [Exploit-DB](https://www.exploit-db.com/) – a public archive of historical and modern software exploits for security researchers
 * [ICHI — Internet Cyber Health Index](https://ichi.global) – a free, source-transparent daily barometer of internet cyber health that aggregates vulnerability pressure, exploitation activity, malware infrastructure, ransomware, and threat actor signals into a single executive-readable readout
+* [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) – an open database of AI agent security events (incidents, vulnerabilities, research), each linked to its public sources
 
 ## Offline, paper-based materials (e.g., cards)
 
