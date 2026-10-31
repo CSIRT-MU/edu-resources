@@ -25,6 +25,7 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 
 ## Online courses and materials
 
+* [CertSprint](https://getcertsprint.com/) – original, unofficial cybersecurity certification practice questions; public samples and limited practice are free, full banks are paid
 * [CipherExam](https://cipherexam.com/lp/security-plus) – Security+ (SY0-701) practice questions with native PBQs, tagged by cognitive level (Bloom taxonomy); free and paid plans
 * [Crypto Scam Detection Quiz](https://cryptostrapon.github.io/crypto-scam-quiz/) – free, open-source quiz to recognize crypto scams (MIT code, CC BY 4.0 content)
 * [Cybrary](https://www.cybrary.it/) – free online security courses
