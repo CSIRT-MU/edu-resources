@@ -39,6 +39,8 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 * [pwn.guide](https://pwn.guide) – 150+ web, hardware, wireless... hacking, cryptography, defense & certification training (some content is paywalled)
 * [SANS](https://www.sans.org/) – professional paid information security training
 * [SANS Cyber Aces](https://tutorials.cyberaces.org/) – video tutorials with handouts and quizzes
+* [SaveMyCert](https://www.savemycert.com/certifications/comptia-security-plus/) – free study notes, cheat sheets and explained practice questions for CompTIA Security+ (SY0-801),
+  ISC2 CC, CCSP and other certifications; free daily practice, full question banks and mock exams as a one-time paid unlock.
 * [RansomLeak](https://ransomleak.com/catalogue/application-security/) – browser-based hands-on labs for Application Security, API Security, Cloud Security, Git Security, and AI Security
 * [SecuSpark](https://www.secuspark.com/) – gamified practice questions and mock exams for cybersecurity certification prep (CompTIA Security+, CySA+, PenTest+, and more) with a free tier
 * [Teaching Security](https://teachingsecurity.org/) – ready-made materials for classrooms
